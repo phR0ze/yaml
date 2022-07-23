@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"gopkg.in/yaml.v2"
+	"github.com/phR0ze/yaml"
 )
 
 // An example showing how to unmarshal embedded
